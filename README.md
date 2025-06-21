@@ -72,4 +72,5 @@ Identifying design properties such as color, typography, and layout ensures cons
     - Company information
     - Social media links
     - Copyright information
+    
 Each component will be designed for reusability and consistency across the application.
